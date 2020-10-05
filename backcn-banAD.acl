@@ -1,6 +1,6 @@
 #**********************************************************************
-# 08.16
-# 2020年8月16日23:51:50
+# 10.03
+# 2020年10月3日11:41:57
 # 转载需要注明版权和来源
 #
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
@@ -173,7 +173,6 @@
 (^|\.)ae\.bdstatic\.com$
 (^|\.)antivirus\.baidu\.com$
 (^|\.)api\.mobula\.sdk\.duapps\.com$
-(^|\.)ashifen\.com$
 (^|\.)baichuan\.baidu\.com$
 (^|\.)baidu9635\.com$
 (^|\.)baidustatic\.com$
@@ -258,7 +257,6 @@
 (^|\.)sestat\.baidu\.com$
 (^|\.)shadu\.baidu\.com$
 (^|\.)share\.baidu\.com$
-(^|\.)shifen\.com$
 (^|\.)snippet\.pos\.baidu\.com$
 (^|\.)sobar\.baidu\.com$
 (^|\.)sobartop\.baidu\.com$
@@ -411,7 +409,7 @@
 (^|\.)(d|migc|migcreport|mis)\.g\.mi\.com$
 (^|\.)(notice|ppurifier)\.game\.xiaomi\.com$
 (^|\.)(r|security)\.browser\.miui\.com$
-(^|\.)adv\.sec.\intl\.miui.com$
+(^|\.)adv\.sec\.intl\.miui\.com$
 (^|\.)adv\.sec\.miui\.com$
 (^|\.)data\.mistat\.xiaomi\.com$
 (^|\.)tracking\.miui\.com$
@@ -537,7 +535,6 @@
 (^|\.)doubleplay-conf-yql\.media\.yahoo\.com$
 (^|\.)flurry\.com$
 (^|\.)m\.yap\.yahoo\.com$
-(^|\.)uservoice\.com$
 (^|\.)ws\.progrss\.yahoo\.com$
 
 # Zhihu
@@ -1890,7 +1887,7 @@
 
 # YYeTs 人人影视
 (^|\.)got001\.com$
-(^|\.)jstucdn\.com$
+(^|\.)p4pfile\.com$
 (^|\.)rrys\.tv$
 (^|\.)rrys2020\.com$
 (^|\.)yyets\.com$
@@ -2147,7 +2144,6 @@
 (^|\.)smzdm\.com$
 (^|\.)snwx\.com$
 (^|\.)soufunimg\.com$
-(^|\.)ssl-images-amazon\.com$
 (^|\.)sspai\.com$
 (^|\.)startssl\.com$
 (^|\.)suning\.com$
@@ -8295,6 +8291,8 @@
 # 直连列表
 
 # MyList
+(^|\.)1password\.com$
+(^|\.)adguard\.org$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
 (^|\.)cccat\.io$
@@ -14168,6 +14166,10 @@
 (^|\.)discord\.media$
 (^|\.)discordapp\.com$
 (^|\.)discordapp\.net$
+
+# Dubox
+(^|\.)dubox\.com$
+(^|\.)duboxcdn\.com$
 
 # Facebook
 (^|\.)facebook\.com$
